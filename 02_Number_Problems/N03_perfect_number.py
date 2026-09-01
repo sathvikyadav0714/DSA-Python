@@ -2,7 +2,7 @@
 
 # A Perfect number is equal to the sum of all its proper divisors, excluding itself.
 
-n=6
+n=int(input("Enter a number: "))
 total=0
 for i in range(1,n):
     if n%i==0:
