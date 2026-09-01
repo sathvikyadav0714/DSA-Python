@@ -12,3 +12,4 @@ if total==n:
     print(f"{n} is a perect number")
 else:
     print("not a perfect number")
+ 

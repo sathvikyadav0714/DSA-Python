@@ -1,0 +1,1 @@
+# Given an integer n, print all its prime factors.

@@ -16,4 +16,4 @@ while n>0:
 if total_sum==temp:
     print(f"{temp} is a Strong number.")
 else:   
-    print(f"{temp} is not a Strong number.")
+    print(f"{temp} is not a Strong number.") 

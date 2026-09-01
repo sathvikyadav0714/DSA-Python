@@ -13,4 +13,4 @@ while n>0:
 if temp%total==0:
     print(f"{temp} is an harshad number")
 else:
-    print("not a harshad number")
+    print("not a harshad number") 
